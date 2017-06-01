@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SyntaxHighlighter.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="PHP_EXE" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\SDK\geshi-word-addin\php\php.exe</Value>
+    </Setting>
+    <Setting Name="CLI_SCRIPT" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\SDK\geshi-word-addin\cli.php</Value>
+    </Setting>
+    <Setting Name="LANGUAGE" Type="System.String" Scope="User">
+      <Value Profile="(Default)">php</Value>
+    </Setting>
+    <Setting Name="LINE_NUMBERS" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="GESHI_SCRIPT" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\SDK\geshi-word-addin\geshi\geshi.php</Value>
+    </Setting>
+    <Setting Name="GESHI_LANGUAGES" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\SDK\geshi-word-addin\geshi\geshi</Value>
+    </Setting>
+    <Setting Name="SELECTED_LANGUAGES" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="AVAILABLE_LANGUAGES" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="TAB_WIDTH" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="GESHI_LANGUAGES_LAST_WRITE_DATE_TIME" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="MARKER_EXTRA_HIGHLIGHTED_LINES" Type="System.String" Scope="User">
+      <Value Profile="(Default)">!!!</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
